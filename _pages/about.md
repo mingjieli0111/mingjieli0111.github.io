@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a postdoc researcher at [CISPA Helmholtz Center for Information Security](https://cispa.de/), Germany, hosted by [Prof. Michael Backes](https://cispa.de/en/about/director-page) and [Dr. Yang Zhang](https://yangzhangalmo.github.io/). I received my PhD from Peking University, China, under the supervision of [Prof. Zhouchen Lin](https://zhouchenlin.github.io/) and [Asst. Prof. Yiwen Wang](https://yisenwang.github.io/). My general research interest is Machine Learning and Graph Learning, especially in their Security and Privacy.
+I am a postdoc researcher at [CISPA Helmholtz Center for Information Security](https://cispa.de/), Germany, hosted by [Prof. Michael Backes](https://cispa.de/en/about/director-page). I received my PhD from Peking University, China, under the supervision of [Prof. Zhouchen Lin](https://zhouchenlin.github.io/) and [Asst. Prof. Yiwen Wang](https://yisenwang.github.io/). My general research interest is Machine Learning and Graph Learning, especially in their Security and Privacy.
 
 ## Research Interests
 
